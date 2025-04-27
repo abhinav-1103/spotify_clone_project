@@ -20,3 +20,5 @@ CSS – styling, responsiveness, and animations
 
 JavaScript – audio control, interactivity, and DOM manipulation
 
+******* NOTE: PLACE ALL THE MP4 FILE INA FOLDER NAMED AS (songs) AND PLACE THIS FOLDER IN THE MAIN FOLDER WHERE ALL THE OTHER FILES ARE PRESENT. OTHERWISE THE SONGS WILL NOT PLAY DUE TO MISSING FILE OR
+WRONG PATH.
